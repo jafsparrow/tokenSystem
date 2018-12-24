@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "543541555510",
+    "firebase_url": "https://lailas-token.firebaseio.com",
+    "project_id": "lailas-token",
+    "storage_bucket": "lailas-token.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543541555510:android:2710ef7cf4a4ecf2",
+        "android_client_info": {
+          "package_name": "com.example.tokensystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543541555510-l0lt08muntlqokhg2vb10lt2lu594odc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtvdhCqhFJuLKqTVFYEk143XD5znHQF7Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
